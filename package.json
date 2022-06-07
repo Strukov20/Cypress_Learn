@@ -1,0 +1,16 @@
+{
+  "name": "cypress_courshunter",
+  "version": "1.0.0",
+  "description": "Automation testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "Bohdan Strukov",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.1",
+    "prettier": "^2.6.2"
+  }
+}
